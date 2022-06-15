@@ -434,7 +434,7 @@
             // btnSave
             // 
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(180, 22);
+            this.btnSave.Size = new System.Drawing.Size(132, 22);
             this.btnSave.Text = "Save Ranks";
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
